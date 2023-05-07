@@ -1,0 +1,26 @@
+char *nombreArchivoFigura[] = { 
+    {"ahorcado6.txt",
+"-----------------\n|\t\t|\n|\t\tO\n|\t\t|\\\n|\t\t/ \\\n|\n|\n=========\n"},
+  
+{"ahorcado5.txt",
+    
+"-----------------\n|\t\t|\n|\t\tO\n|\t\t|\\\n|\t\t/ \n|\n|\n=========\n"},
+  
+{"ahorcado4.txt",
+    
+"-----------------\n|\t\t|\n|\t\tO\n|\t\t|\\\n|\t\t   \n|\n|\n=========\n"},
+  
+{"ahorcado3.txt",
+    
+"-----------------\n|\t\t|\n|\t\tO\n|\t      --|\\\n|\t\t|\n|\n|\n=========\n"},
+  
+{"ahorcado2.txt",
+    
+"-----------------\n|\t\t|\n|\t\tO\n|\t      --|--\n|\t\t|\n|\n|\n=========\n"},
+  
+{"ahorcado1.txt",
+    
+"-----------------\n|\t\t|\n|\t\tO\n|\t      --|--\n|\t\t|\n|\t       /\\\n|\n=========\n"}
+};
+
+} 
